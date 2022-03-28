@@ -1,0 +1,30 @@
+
+
+h1, p {
+  font-family: Lato;
+}
+.login-title {
+  font-size:17px;
+
+}
+.input-box{
+  height:40px;
+  border-radius: 5px;
+  border:1px solid #e5e5e5;
+  margin-bottom: 20px;
+  width:100%;
+}
+.input-label{
+  display: block;
+}
+.button{
+  display: block;
+  width: 100%;
+  border: none;
+  text-align: center;
+  color:blue;
+  height:53px;
+  border-radius:5px;
+  margin-top: 30px;
+  font-weight:bold;
+}
